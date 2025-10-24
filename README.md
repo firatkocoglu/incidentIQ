@@ -2,8 +2,7 @@
 
 📘 Documentation
 📄 Detailed project documentation & roadmap available on Notion:
-👉 IncidentIQ — Notion Page
-👉 [IncidentIQ – Notion Page](https://www.notion.so/IncidentIQ-AI-Powered-Incident-SLO-Management-Platform-2960fe48dd988018bb05f1fc9461a2be?source=copy_link)
+#### 👉 [IncidentIQ – Notion Page](https://www.notion.so/IncidentIQ-AI-Powered-Incident-SLO-Management-Platform-2960fe48dd988018bb05f1fc9461a2be?source=copy_link)
 
 
 ### AI-powered Incident & SLO Management Platform
