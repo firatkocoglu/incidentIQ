@@ -56,7 +56,7 @@ Each service communicates through domain events, enabling scalability and fault 
 🧑‍💻 Author
 
 Fırat Koçoğlu
-Software Engineer • .NET & Laravel Developer
+Software Engineer 
 📎 [GitHub](https://github.com/firatkocoglu) | [LinkedIn](https://linkedin.com/in/firatkocoglu)
 
 
