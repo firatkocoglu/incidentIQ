@@ -25,7 +25,7 @@ It helps developers and DevOps teams detect, analyze, and resolve system issues 
 
 ### 🧱 Tech Stack
 
-Backend: .NET 9 (ASP.NET Core)
+Backend: 
 Database: PostgreSQL + pgvector + TimescaleDB
 Messaging: RabbitMQ + MassTransit
 Cache: Redis
